@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderralidate",
+        "uuid": 27617884,
+        "checksum": "urmert"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
